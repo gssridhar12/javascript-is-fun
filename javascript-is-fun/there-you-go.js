@@ -6,4 +6,4 @@
         console.log("deferred");
     }, 0);
     console.log("u got me");
-})();
+})()
